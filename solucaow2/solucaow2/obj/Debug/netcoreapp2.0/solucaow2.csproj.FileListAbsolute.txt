@@ -1,0 +1,11 @@
+C:\Users\Julio Venâncio\source\repos\solucaow2\solucaow2\bin\Debug\netcoreapp2.0\solucaow2.deps.json
+C:\Users\Julio Venâncio\source\repos\solucaow2\solucaow2\bin\Debug\netcoreapp2.0\solucaow2.runtimeconfig.json
+C:\Users\Julio Venâncio\source\repos\solucaow2\solucaow2\bin\Debug\netcoreapp2.0\solucaow2.runtimeconfig.dev.json
+C:\Users\Julio Venâncio\source\repos\solucaow2\solucaow2\bin\Debug\netcoreapp2.0\solucaow2.dll
+C:\Users\Julio Venâncio\source\repos\solucaow2\solucaow2\bin\Debug\netcoreapp2.0\solucaow2.pdb
+C:\Users\Julio Venâncio\source\repos\solucaow2\solucaow2\obj\Debug\netcoreapp2.0\solucaow2.csproj.CoreCompileInputs.cache
+C:\Users\Julio Venâncio\source\repos\solucaow2\solucaow2\obj\Debug\netcoreapp2.0\solucaow2.AssemblyInfoInputs.cache
+C:\Users\Julio Venâncio\source\repos\solucaow2\solucaow2\obj\Debug\netcoreapp2.0\solucaow2.AssemblyInfo.cs
+C:\Users\Julio Venâncio\source\repos\solucaow2\solucaow2\obj\Debug\netcoreapp2.0\solucaow2.dll
+C:\Users\Julio Venâncio\source\repos\solucaow2\solucaow2\obj\Debug\netcoreapp2.0\solucaow2.pdb
+C:\Users\Julio Venâncio\source\repos\solucaow2\solucaow2\obj\Debug\netcoreapp2.0\solucaow2.csprojResolveAssemblyReference.cache
